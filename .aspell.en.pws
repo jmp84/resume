@@ -1,4 +1,4 @@
-personal_ws-1.1 en 74 
+personal_ws-1.1 en 80 
 Cloze
 Baptista
 Ecoles
@@ -29,16 +29,20 @@ Mamede
 medalist
 Viana
 nieur
+FG
 ZOP
 d'Option
 OpenFst
 Polytechnique
 Faidherbe
 Prix
+IJCNLP
 PHP
 Iglesias
 Heilman
+UCAM
 MTTK
+SMT
 Brunning
 Byrne
 enelon
@@ -49,6 +53,7 @@ magna
 BLEU
 Ecole
 HLT
+REPLACEME
 landline
 KenLM
 Gispert
@@ -73,3 +78,4 @@ Matlab
 NIST
 l'Ecole
 NAACL
+Facebook
